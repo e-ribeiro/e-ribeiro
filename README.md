@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is [Eder Ribeiro](https://twitter.com/oribeiroeder) and i am a software developer at [@acessodigi](https://twitter.com/acessodigi).
+
+- 📫 How to reach me: tech@eueder.com
+
 <!--
 **e-ribeiro/e-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
