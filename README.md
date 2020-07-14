@@ -8,7 +8,7 @@ As a software developer, my focus always was with backend and the languages that
 - Golang, the main language at these days;
 - Javascript, it's a kind of personal interest;
 
-- 📫 How to reach me: tech@eueder.com
+📫 How to reach me: tech@eueder.com
 
 <!--
 **e-ribeiro/e-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
