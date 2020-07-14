@@ -4,8 +4,8 @@ My name is [Eder Ribeiro](https://twitter.com/oribeiroeder), and I am a software
 
 As a software developer, my focus was always with backend and the languages that I use on my work days are:
 
-- PHP, the first that I worked;
 - Golang, the main language at these days;
+- PHP, the first that I worked;
 - Javascript, it's a kind of personal interest;
 
 📫 How to reach me: tech@eueder.com
