@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is [Eder Ribeiro](https://twitter.com/oribeiroeder) and I am a software developer at [@acessodigi](https://twitter.com/acessodigi) based in São Paulo, Brasil.
+My name is [Eder Ribeiro](https://twitter.com/oribeiroeder), and I am a software developer at [@acessodigi](https://twitter.com/acessodigi) based in São Paulo, Brasil.
 
-As a software developer, my focus always was with backend and the languages that I use on my work days are:
+As a software developer, my focus was always with backend and the languages that I use on my work days are:
 
 - PHP, the first that I worked;
 - Golang, the main language at these days;
