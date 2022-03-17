@@ -7,7 +7,7 @@ As a software developer, my focus was always with backend.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ribeiro&layout=compact)](https://github.com/e-ribeiro/github-readme-stats)
 
 
-📫 How to reach me: tech@eueder.com
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ederibeiro/)
 
 <!--
 **e-ribeiro/e-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
