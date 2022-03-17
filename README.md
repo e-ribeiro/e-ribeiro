@@ -4,6 +4,8 @@ My name is [Eder Ribeiro](https://twitter.com/oribeiroeder), and I am a software
 
 As a software developer, my focus was always with backend.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ribeiro&layout=compact)](https://github.com/e-ribeiro/github-readme-stats)
+
 
 📫 How to reach me: tech@eueder.com
 
