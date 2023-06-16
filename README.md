@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Eder Ribeiro](https://twitter.com/oribeiroeder), and I am a software developer at [@unicoidtech](https://twitter.com/unicoidtech) based in São Paulo, Brasil.
+My name is [Eder Ribeiro](https://twitter.com/oribeiroeder), and I am a software developer based in São Paulo, Brasil.
 
 As a software developer, my focus was always with backend.
 
